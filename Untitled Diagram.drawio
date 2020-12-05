@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T01:57:09.275Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="I1kyBKs-uIVpUH3WVbvn" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T02:01:14.571Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="FP8Jsst7NC6n9LTPQpZ7" version="13.10.9" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="565" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -123,16 +123,33 @@
         <mxCell id="AWHUf_0FlsuX0KZdPKvo-18" value="Processar formulário" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="AWHUf_0FlsuX0KZdPKvo-5">
           <mxGeometry x="256" y="30" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="AWHUf_0FlsuX0KZdPKvo-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AWHUf_0FlsuX0KZdPKvo-5" source="AWHUf_0FlsuX0KZdPKvo-20" target="AWHUf_0FlsuX0KZdPKvo-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="70" />
+              <mxPoint x="660" y="186" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AWHUf_0FlsuX0KZdPKvo-20" value="Relatório" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="AWHUf_0FlsuX0KZdPKvo-5">
           <mxGeometry x="430" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AWHUf_0FlsuX0KZdPKvo-22" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=eventInt;symbol=timer;" vertex="1" parent="AWHUf_0FlsuX0KZdPKvo-5">
           <mxGeometry x="380" y="285" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AWHUf_0FlsuX0KZdPKvo-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="AWHUf_0FlsuX0KZdPKvo-5" source="AWHUf_0FlsuX0KZdPKvo-41" target="AWHUf_0FlsuX0KZdPKvo-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AWHUf_0FlsuX0KZdPKvo-41" value="Arquivar queixas e reclamações" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="AWHUf_0FlsuX0KZdPKvo-5">
           <mxGeometry x="750" y="146" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="AWHUf_0FlsuX0KZdPKvo-46" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=terminate;" vertex="1" parent="AWHUf_0FlsuX0KZdPKvo-5">
+          <mxGeometry x="795" y="290" width="30" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="AWHUf_0FlsuX0KZdPKvo-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="AWHUf_0FlsuX0KZdPKvo-2" source="AWHUf_0FlsuX0KZdPKvo-8" target="AWHUf_0FlsuX0KZdPKvo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AWHUf_0FlsuX0KZdPKvo-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="AWHUf_0FlsuX0KZdPKvo-2" source="AWHUf_0FlsuX0KZdPKvo-42" target="AWHUf_0FlsuX0KZdPKvo-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
